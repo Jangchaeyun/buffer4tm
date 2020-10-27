@@ -1,0 +1,432 @@
+#baby_size{
+    border: 1px solid #e4e4e4;
+    background-color: #fbfbfb;
+    font-size: 12px;
+    color: #555;
+    border-collapse: collapse;
+    width: 910px;
+    height: 210px;
+    margin: 20px;
+  }
+  th{
+    border: 1px solid #e4e4e4;
+    font-size: 12px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+    font-weight: bold;
+    height: 30px;
+  }
+  #d{
+    border: 1px solid #e4e4e4;
+    font-size: 12px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+  
+    text-align: center;
+    background-color: white;
+  }
+  #baby{
+    font-weight: bold;
+    text-indent: 0.4cm;
+    font-size: 14px;
+  }
+  #boys{
+    font-weight: bold;
+    font-size: 12px;
+    text-align: center;
+    background-color: white;
+    border: 1px solid #e4e4e4;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+  }
+  #girls{
+    font-weight: bold;
+    font-size: 12px;
+    text-align: center;
+    background-color: white;
+    border: 1px solid #e4e4e4;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+  }
+  #size{
+    font-size: 12px;
+    border: 1px solid #e4e4e4;
+    background-color: white;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+    font-weight: bold;
+  }
+  #tall{
+    font-weight: bold;
+    font-size: 12px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+    background-color: white;
+    border: 1px solid #e4e4e4;
+  }
+  #weight{
+    font-size: 12px;
+    text-align: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+    background-color: white;
+    font-weight: bold;
+    border: 1px solid #e4e4e4;
+  }
+  #Small{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+    width: 100px;
+    
+  }
+  #Medium{
+    width: 110px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+  }
+  #Large{
+    width: 100px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+  }
+  #X-Large{
+    width: 100px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+  }
+  #id{
+    width: 150px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+  
+  }
+  #refund{
+    font-weight: bold;
+    text-indent: 0.4cm;
+    font-size: 14px;
+  }
+  #search{
+    font-size: 12px;
+    color: #555;
+    width: 910px;
+    height: 210px;
+    margin: 20px;
+    border-top: 2px solid #a5a5a5;
+    border-bottom: 1px solid #e4e4e4;
+  }
+  td{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+  }
+  #b1{
+    border-bottom: 1px solid #e4e4e4;
+    background-color: #fbfbfb;
+  }
+  #sum{
+    border-top: 1px solid #a5a5a5;
+    font-weight: bold;
+  }
+  #b2{
+    font-weight: bold;
+    border-top: 1px solid #a5a5a5;
+  }
+  #form-font{
+    font-weight: bold;
+    font-size: 14px;
+    text-indent: 0.4cm;
+    margin-top: 0.4cm;
+    color: #000;
+  }
+  
+  .signup{
+    display: flex;
+    flex-direction: column;
+    border: 1px #e4e4e4 solid;
+    background-color: #fbfbfb;
+    margin: 10px 30px 30px;
+  }
+  
+  .input-box{
+    font-size: 12px;
+    margin: 10px 15px;
+    height: 30px;
+    border: 1px #e4e4e4 solid;
+  }
+  
+  .Date-Data{
+    display: flex;
+  }
+  
+  .Date-Data select{
+    border: 1px #e4e4e4 solid;
+    height: 30px;
+    flex-grow: 1;
+    margin: 15px 5px 10px 15px;
+  }
+  
+  .Gender-Data{
+    display: flex;
+    justify-content: space-between;
+    width: 150px;
+    font-size: 12px;
+    color: #000;
+    margin-left: 15px;
+    margin-top: 5px;
+  }
+  
+  .CallNumber{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;  
+  }
+  
+  .Call-button{
+  
+    font-size: 12px;
+    color: #fff;
+    height: 35px;
+    width: 200px;
+    margin-top: 10px;
+    margin-right: 15px;
+    border: 1px #08a600 solid;
+    background-color: #4ec53d;
+  }
+  
+  .Call-box{
+    display: flex;
+    font-size: 12px;
+    margin-left: 15px;
+    margin-top: 10px;
+    margin-right: 15px;
+    height: 35px;
+    border: 1px #e4e4e4 solid;
+    flex-grow: 6;
+  }
+  
+  .checkBox{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 15px;
+    font-size: 12px;
+    color: #000;
+    width: 850px;
+  }
+  
+  .bigText{
+    display: flex;
+    flex-direction: column;
+  }
+  #welcome{
+    margin: 15px;
+  }
+  
+  .sign-Up{
+    height: 35px;
+    margin: 0px 15px 15px 15px;
+    border: 1px #08a600 solid;
+    background-color: #4ec53d;
+    font-size: 16px;
+    color: #fff;
+  }
+  #form-Style{
+    font-weight: bold;
+    font-size: 14px;
+    text-indent: 0.4cm;
+    margin-top: 0.4cm;
+    color: #000;
+  }
+  #boxbox{
+    width: 950px;
+    height: 250px;
+    margin: 30px;
+    border: 1px solid #e4e4e4;
+    padding: 20px;
+  }
+  #boxboxbox{
+    width: 200px;
+    height: 300px;
+    margin: 30px;
+    border: 1px solid #e4e4e4;
+    padding: 20px;
+  }
+  #boxboxboxbox{
+    width: 950px;
+    height: 200px;
+    margin: 20px;
+    border: 1px solid #e4e4e4;
+    padding: 20px;
+  }
+  #form-Style2{
+    margin-left: 50px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 32px;
+    text-indent: 0.4cm;
+    margin-top: 0.4cm;
+    color: #000;
+  }
+  #form-Style3{
+    font-weight: bold;
+    font-size: 14px;
+    text-indent: 0.4cm;
+    margin-top: 0.4cm;
+    display:inline;
+    color: #000;
+  }
+  #form-Style33{
+    font-weight: bold;
+    font-size: 12px;
+  }
+    #form-Style4{
+      font-weight: bold;
+      font-size: 12px;
+      text-indent: 0.4cm;
+      margin-top: 0.4cm;
+      display:inline;
+  }
+  #form-Style5{
+      font-size: 12px;
+      text-indent: 0.4cm;
+      margin-top: 0.2cm;
+      color: #000;
+    }
+    li{
+      font-size: 12px;
+    }
+    #form-Style8{
+      font-weight: bold;
+      font-size: 14px;
+      text-indent: 0.4cm;
+      margin-top: 0.4cm;
+      border: 1px solid #000;
+      color: #000;
+    }
+    .list-font{
+      font-weight: bold;
+      font-size: 14px;
+      text-indent: 0.4cm;
+      margin-top: 0.4cm;
+      color: #000;
+  }
+  
+  #image-80{
+      margin-right: 15px;
+  }
+  
+  .news-box{
+      display: flex;
+      flex-direction: column;
+      border: 1px #e4e4e4 solid;
+      margin: 20px;
+      padding: 20px;
+  }
+  
+  #news-title{
+      font-weight: bold;
+      font-size: 14px;
+      color: #00c;
+      text-decoration: underline;
+      margin-top: 20px;
+  }
+  
+  #news-content{
+      color: #000;
+      font-size: 12px;
+      line-height: 1.6;
+      margin-top: 5px;
+  }
+  
+  hr{
+      margin: 20px;
+  }
+  
+  .webtoon-box{
+      display: flex;
+      flex-direction: column;
+      border: 1px #e4e4e4 solid;
+      margin: 15px;
+      padding: 20px;
+  }
+  
+  .webtoon-in-box{
+      display: flex;
+      flex-direction: row;
+  }
+  
+  .webtoon-image{
+      display: flex;
+      flex-direction: column;
+      margin-left: 9px;
+      margin-bottom: 20px;
+      position: static;
+      text-decoration: none;
+  }
+  
+  #webtoon-link{
+      margin-top: 3px;
+      font-size: 14px;
+      font-weight: bold;
+      color: #000;
+      text-decoration: none;
+  }
+  
+  #webtoon-link:hover{
+      text-decoration: underline;
+  }
+  
+  #webtoon-description{
+      font-size: 12px;
+      color: #000;
+      text-decoration: none;
+      margin-top: 6px;
+  }
+  
+  #cut-toon{
+      text-align: center;
+      justify-content: center;
+      flex-direction: row;
+      width: 20px;
+      border: 1px #71b036;
+      background: #80c83d;
+      font-size: 10px;
+      color: #fff;
+  }
+  
+  #smart-toon{
+      text-align: center;
+      justify-content: center;
+      flex-direction: row;
+      width: 20px;
+      border: 1px #df4e28;
+      background: #ec5336;
+      font-size: 10px;
+      color: #fff;
+  }
+  
+  
+  
